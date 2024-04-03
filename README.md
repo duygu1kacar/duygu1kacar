@@ -1,5 +1,5 @@
 - 👋 Hi, I’m duygu kacar
-- 🌱 I’m currently learning C++ and python.
+- 🌱 I’m currently learning C++ , java and dijital forensic.
 - 💻 I received training in the field of cyber security as an ethical hacker, penetration tester, forensic information security.
 - 🦾 We have a team in the field of cyber security at my school. His Name is BEU CYBER.
 - 📫 How to reach me duygikacar1@gmail.com 
